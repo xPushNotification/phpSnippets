@@ -154,6 +154,6 @@ print_r([
     in_array("text", TheVariableType::list),
     in_array("json", TheVariableType::list),
 ]);
-
+///
 ?>
 
